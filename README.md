@@ -14,4 +14,5 @@ Doctor summary (to see all details, run flutter doctor -v):
 [√] IntelliJ IDEA Community Edition (version 2019.2)
 [√] VS Code, 64-bit edition (version 1.51.1)
 
-
+Flutter empty project:
+flutter create --androidx -t app --org com.udemy.dartbeginnerscourse -a kotlin -i swift .
