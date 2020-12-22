@@ -6,7 +6,7 @@
 // user input
 // import 'dart:io';
 
-String testVariables() {
+String testModule() {
   /*
    everything is an object, it inherits from Object class
    available methods: hashCode, runtimeType, toString(), noSuchMethod(...)
@@ -46,5 +46,5 @@ String testVariables() {
   // String name = stdin.readLineSync();
   // name == null ? stderr.write('Name is empty') : stdout.write('Hello $name');
 
-  return 'Dart demos done.\nCheck Debug console for test cases.';
+  return 'Dart variables demos done.\nCheck Debug console for test cases.';
 }

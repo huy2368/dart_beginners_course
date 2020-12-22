@@ -2,7 +2,8 @@
 import 'package:flutter/material.dart';
 
 // Dart demos
-import 'features/1.variables.dart' as demo;
+// import 'features/1.variables.dart' as demo;
+import 'features/2.collections.dart' as demo;
 
 void main() {
   runApp(MyApp());
@@ -40,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: Container(
-          child: Text('${demo.testVariables()}'),
+          child: Text('${demo.testModule()}'),
         ),
       ),
     );
