@@ -47,5 +47,5 @@ String testModule() {
   print('Employees map: $employees');
   print('Worker in employees map: ${employees['worker']}'); // null
 
-  return "Dart variables demos done.\nCheck Debug console for test cases.";
+  return "Dart collections demos done.\nCheck Debug console for test cases.";
 }
