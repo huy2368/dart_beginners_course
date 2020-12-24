@@ -5,7 +5,8 @@ import 'package:flutter/material.dart';
 // import 'features/1.variables.dart' as demo;
 // import 'features/2.collections.dart' as demo;
 // import 'features/3.flowcontrol.dart' as demo;
-import 'features/4.functions.dart' as demo;
+// import 'features/4.functions.dart' as demo;
+import 'features/5.errorhandling.dart' as demo;
 
 void main() {
   runApp(MyApp());
